@@ -1,6 +1,6 @@
-Name:Comcast,Gender:M,On board date:19990405,Phone:0911345671,Address:somewhereInUkraine,Salary:100000.0
-Name:Elizabeth,Gender:F,On board date:19940305,Phone:0922456721,Address:somewhereInPoland,Salary:106250.0
-Name:Booker,Gender:M,On board date:19830402,Phone:0933354654,Address:somewhereInRome,Salary:104800.0
-Name:Tifa,Gender:F,On board date:19930402,Phone:0944354654,Address:somewhereInPortugual,Salary:111050.0
-Name:Cloud,Gender:M,On board date:19880402,Phone:0955354654,Address:somewhereInPlanet,Salary:108800.0
-Name:Montezuma,Gender:M,On board date:11130402,Phone:0966354654,Address:somewhereInSouthAmerica,Salary:115050.0
+Name:Comcast,Gender:M,On board date:1999/04/05,Phone:0911345671,Address:somewhereInUkraine,Salary:100000.0
+Name:Elizabeth,Gender:F,On board date:1994/03/05,Phone:0922456721,Address:somewhereInPoland,Salary:106250.0
+Name:Booker,Gender:M,On board date:1983/04/02,Phone:0933354654,Address:somewhereInRome,Salary:104800.0
+Name:Tifa,Gender:F,On board date:1993/04/02,Phone:0944354654,Address:somewhereInPortugual,Salary:111050.0
+Name:Cloud,Gender:M,On board date:1988/04/02,Phone:0955354654,Address:somewhereInPlanet,Salary:108800.0
+Name:Montezuma,Gender:M,On board date:1993/08/02,Phone:0966354654,Address:somewhereInSouthAmerica,Salary:115050.0
